@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Update metrics
-        uses: AlexLog94/metrics@main
+        uses: AlexLog94/AlexLog94@main
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: metrics.svg
