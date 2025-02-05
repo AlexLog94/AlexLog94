@@ -16,7 +16,7 @@ jobs:
       - name: Update metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH2_TOKEN }}
           filename: metrics.svg
           user: AlexLog94
           committer_message: "chore: update ${filename}"
