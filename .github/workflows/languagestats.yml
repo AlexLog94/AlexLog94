@@ -1,4 +1,4 @@
-name: Featured star list languages
+name: Languages indepth
 on:
   schedule:
     - cron: "0 0 * * *"
