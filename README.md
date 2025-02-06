@@ -6,4 +6,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/AlexLog94/AlexLog94/output/github-snake.svg" />
 </picture>
 
-<p align="center"><img src="metrics.svg" alt="Metrics" width="400"></p>
+<p align="left"><img src="metrics.svg" alt="Metrics" width="400"></p>
