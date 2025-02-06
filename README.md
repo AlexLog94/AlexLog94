@@ -11,8 +11,8 @@
 <!-- <p align="left"><img src="metrics.svg" alt="Metrics" width="400"></p> -->
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-    <img src="metrics.svg" alt="Metrics" style="width: 400px; height: auto; vertical-align: top;"/>
+    <img src="metrics.plugin.languages.indepth.svg" alt="Languages Indepth" style="width: 400px; height: auto; vertical-align: top;"/>
     <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto; vertical-align: top;"/>
 </div>
 
-<p align="left"><img src="metrics.plugin.languages.indepth.svg" alt="Languages Indepth" width="400"></p>
+<!-- <p align="left"><img src="metrics.plugin.languages.indepth.svg" alt="Languages Indepth" width="400"></p> -->
