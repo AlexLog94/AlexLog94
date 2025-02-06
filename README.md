@@ -18,8 +18,6 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
     <picture>
         <img src="metrics.svg" alt="Metrics" style="width: 400px; height: auto;">
-    </picture>
-    <picture>
         <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto;">
     </picture>
 </div>
