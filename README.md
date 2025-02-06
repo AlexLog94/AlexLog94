@@ -15,4 +15,4 @@
     <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto; vertical-align: top;"/>
 </div>
 
-[<img align="right" alt="🦑" src="metrics.plugin.languages.indepth.svg">](#)
+[<img align="left" alt="🦑" src="metrics.plugin.languages.indepth.svg">](#)
