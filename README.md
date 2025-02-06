@@ -10,4 +10,4 @@
 
 <p align="left"><img src="metrics.plugin.starlists.languages.svg" alt="Metrics languages" width="400"></p>
 
-<p align="left"><img src="metrics.plugin.achievements.compact.svg" alt="Achievements" width="400"></p>
+<p align="right"><img src="metrics.plugin.achievements.compact.svg" alt="Achievements" width="400"></p>
