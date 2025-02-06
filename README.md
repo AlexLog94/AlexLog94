@@ -8,7 +8,7 @@
 
 <p align="left"><img src="metrics.svg" alt="Metrics" width="400"></p>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
-    <img src="metrics.plugin.starlists.languages.svg" alt="Metrics languages" style="width: 50%; height: auto;"/>
-    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 50%; height: auto;"/>
+<div style="display: flex; align-items: flex-start;">
+    <img src="metrics.plugin.starlists.languages.svg" alt="Metrics languages" style="width: 400px; height: auto;"/>
+    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto;"/>
 </div>
