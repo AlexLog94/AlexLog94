@@ -8,7 +8,7 @@
 
 <p align="left"><img src="metrics.svg" alt="Metrics" width="400"></p>
 
-<div align="left">
+<div align="left top">
     <img src="metrics.plugin.starlists.languages.svg" alt="Metrics languages" width="400"/>
     <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" width="400"/>
 </div>
