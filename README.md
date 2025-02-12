@@ -48,6 +48,10 @@
 [<img align="right" width="400" alt="Starlists" src="metrics.plugin.starlists.languages.svg">](#)
 
 
+<a href="mailto:alex.loginov.1941@mail.ru" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
 <!-- <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px;"/> -->
 <!-- <img src="metrics.plugin.starlists.languages.svg" alt="Starlists" style="width: 400px;"/> -->
