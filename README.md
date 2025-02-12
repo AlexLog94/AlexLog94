@@ -48,7 +48,7 @@
 [<img align="right" width="400" alt="Starlists" src="metrics.plugin.starlists.languages.svg">](#)
 
 
-<a href="mailto:sergey.konoplev@gmail.com?subject=Hello%20Sergey%20Konoplev&body=I%20would%20like%20to%20get%20in%20touch%20with%20you." target="_blank" rel="noopener noreferrer">
+<a href="javascript:void(0);" onclick="window.location.href='mailto:sergey.konoplev@gmail.com?subject=Hello%20Sergey%20Konoplev&body=I%20would%20like%20to%20get%20in%20touch%20with%20you.'">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
