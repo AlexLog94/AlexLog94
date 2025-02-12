@@ -10,6 +10,10 @@
 
 <!-- <p align="left"><img src="metrics.svg" alt="Metrics" width="400"></p> -->
 
+[<img align="left" width="400" alt="Achievements" src="metrics.plugin.achievements.compact.svg">](#)
+[<img align="right" width="400" alt="Starlists" src="metrics.plugin.starlists.languages.svg">](#)
 
-<img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px;"/>
-<img src="metrics.plugin.starlists.languages.svg" alt="Starlists" style="width: 400px;"/>
+
+
+<!-- <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px;"/> -->
+<!-- <img src="metrics.plugin.starlists.languages.svg" alt="Starlists" style="width: 400px;"/> -->
